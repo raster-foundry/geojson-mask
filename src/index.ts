@@ -24,5 +24,6 @@ export default (
       type: 'MultiPolygon',
       coordinates: polygonClipping.difference(worldCoords, featureCoords),
     },
+    properties: {},
   };
 };
