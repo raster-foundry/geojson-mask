@@ -5,7 +5,7 @@
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/alkamin/geojson-mask",
+  "repository": "https://github.com/raster-foundry/geojson-mask",
   "license": "MIT",
   "keywords": [],
   "scripts": {
